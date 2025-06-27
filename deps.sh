@@ -3,9 +3,7 @@ rm -rf Library/Application\ Support/CLion2019.3/*
 rm -rf Library/Application\ Support/BraveSoftware/*
 rm -rf Library/Application\ Support/discord/*
 
-42-wizzard-brew
-
-sleep 0.5
+sleep 0.1
 
 brew install readline
 
